@@ -2,26 +2,26 @@
 ![Intro](/assets/images/keepdocgraf.jpg)
 
 
-# Getting Started
-In this guide, you'll find all the information you need to stake on the Keep Network and start earning rewards.
+# Permulaan
+Pada panduan ini, anda dapat menemukan seluruh informasi yang anda butuhkan untuk melakukan staking Keep Network dan menghasilkan reward.
 
-## Basic Description - tl;dr
-The Keep Network's native token, a KEEP, powers the network and undergirds all the apps that are and will be built on it. Anyone with KEEP tokens can stake them, setting them aside as collateral for Keep Network operations.
+## Deskripsi Dasar - tl;dr
+Keep Network native token, KEEP, merupakan sumber daya jaringan dan sebagai pendukung seluruh aplikasi yang dibangun di dalamnya. Siapapun yang memiliki token KEEP dapat melakukan staking, mengatur token tersebut sebagai kolateral pengoperasian jaringan Keep Network.
 
-Staked tokens are delegated by a KEEP token holder to an operator address, who performs work on the network. This work contribution is rewarded, but if an operator misbehaves and doesn't follow their operator contract, their collateral can be taken away (stake slashing) as punishment.
+Token staking tersebut didelegasikan oleh pemilik token KEEP kepada address operator, yang bekerja menjalankan jaringan. Setiap pekerjaan yang dilakukan akan mendapatkan reward, tetapi jika operator melakukan tindakkan yang tidak sesuai dengan kontrak operator, kolateral mereka mungkin akan diambil(slashing) sebagai hukuman.
 
 
-## Contents
+## Konten
 
-- [Introduction](basics/intro.md) : Intro and context to Keep and tBTC.
-- [Key Reasons for Staking in Keep Network:](Reasons/reasons.md) Understand why it is meaningful to stake in Keep Network.
-- [Comparison with Other Alternatives:](comparison/comparesimilar.md) Compare Keep Staking with other staking alternatives currently available in crypto.
-- [Staking Documentation:](stakingdoc/keep101.md) Official Keep Team's documentation about staking. 
-- [Staking Options:](stakingdoc/stakingoptions.md) With staking partners or on your own node running on a server.
-- [Node Operation:](Node-Operation/intro-operation.md) Deploy, Manage, Troubleshoot your own node.
-- Keep Token Dashboard: Token Dashboard official user guide.
+- [Pengenalan](basics/intro.md) : Pengenalan dan informasi Keep dan tBTC.
+- [Poin Penting Staking di Keep Network:](Reasons/reasons.md) Menjelaskan pentingnya staking di Keep Network. 
+- [Perbandingan Dengan Yang Lain:](comparison/comparesimilar.md) Membandingkan Staking Keep dengan staking lainnya yang tersedia di dalam crypto.
+- [Dokumen Staking:](stakingdoc/keep101.md) Dokumen Resmi Tentang Staking Oleh Tim Keep. 
+- [Pilihan Staking:](stakingdoc/stakingoptions.md) Menggunakan mitra staking atau menjalankannya di dalam node sendiri.
+- [Pengoperasian Node:](Node-Operation/intro-operation.md) Menjalankan, Mengatur, Pengecheckan node anda.
+- Keep Token Dashboard: Panduan resmi dashboard Keep Token.
 
 ---
-`Sourced from Keep Team's official documentation and edited & completed by community.`[Source](https://keep-network.gitbook.io/staking-documentation/)
+`Bersumber dari dokumen resmi Tim Keep, diubah & disempurnakan oleh komunitas Keep.`[Source](https://keep-network.gitbook.io/staking-documentation/)
 
-`Contributors: Ramaruro, EstebanK`
+`Kontributor: Ramaruro, EstebanK`
