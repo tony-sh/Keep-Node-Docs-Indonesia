@@ -3,16 +3,16 @@
 </p>
 
 
-# Keep Nodes Operation 
-### A complete repository with everything you need to run your Keep Random Beacon and ECDSA Nodes
-- This Keep Community Project is to consolidate all info around for new and existing Keep Node owners.
-- It has everything you need to know about deploying and managing Keep Network nodes.
-- Everybody is welcome to review, enhance and add curated data to this repository!
+# Pengoperasian Node Keep
+### Repository penting yang anda butuhkan untuk menjalankan Node Random Beacon dan ECDSA anda
+- Project komunitas Keep ini memiliki tujuan untuk mengumpulkan informasi penting bagi pengguna node Keep baru maupun telah ada.
+- Project ini memiliki semua hal yang anda butuhkan untuk menjalankan dan mengatur node Keep Network.
+- Semua orang dapat melakukan review, pengembangan dan juga penambahan informasi kedalam repository ini!
 
 ---
 
-`Written & assembled by Keep Community.`
-`Contributors: Ramaruro, EstebanK`
+`Ditulis & disusun oleh Komunitas Keep.`
+`Kontributor: Ramaruro, EstebanK`
 
 
 
